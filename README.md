@@ -1,7 +1,10 @@
 # Onboarding
 
-- Primeiramente, bom momento e bem vindo à Comp Júnior!
-- Este é um guia para quem acabou de chegar e estão prontos para aprender e contribuir com o conhecimento do setor de projetos aqui da Comp.
+- Primeiramente, bom momento a todos! Sejam bem-vindos ao time de projetos da Comp!
+- Este é um desafio para que vocês possam se familiarizar com o GitHub e com o processo de contribuição em um repositório open-source.
+- O objetivo é que vocês adicionem seus nomes e links para seus perfis no GitHub no arquivo `trainne.md` seguindo o exemplo abaixo:
+
+```markdown
 
 ## Sua primeira contribuição
 
@@ -27,7 +30,7 @@ git checkout -b feature/adicionando-usuario_teste
 ```
 
 - Agora você criou uma branch e trocou para ela automaticamente, agora é hora de fazer suas alterações:
-- No arquivo `membros.md` adicione seu nome com seu link para o seu perfil no GitHub abaixo do título do período que você ***ingressou***:
+- No arquivo `trainne.md` adicione seu nome com seu link para o seu perfil no GitHub abaixo do título do período que você ***ingressou***:
 
 ```markdown
 [...]
