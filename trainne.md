@@ -6,3 +6,4 @@
 <!--[Seunome](URL Repositório)-->
 - [Gustavo Dantas](https://github.com/dantas15)
 - [Diego Marques](https://github.com/diegomarqueszs)
+- [Jhuan Carlos Sabaini Dassie](https://github.com/DJhuan)
