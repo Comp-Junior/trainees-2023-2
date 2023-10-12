@@ -12,3 +12,4 @@
 - [José Neto](https://github.com/JoseJaan)
 - [Luiz Resende](https://github.com/LuizPhillipResende)
 - [Davi Siqueira](https://github.com/davisiqueira1)
+- [Tiago de Paula](https://github.com/depaulatiago)
