@@ -8,4 +8,4 @@
 - [Diego Marques](https://github.com/diegomarqueszs)
 - [Frederico Maia](https://github.com/FredMaia)
 - [Vitor Luciano](https://github.com/Lucianov-TheFarmer)
-
+- [Davi Siqueira](https://github.com/davisiqueira1)
