@@ -9,3 +9,4 @@
 - [Frederico Maia](https://github.com/FredMaia)
 - [Vitor Luciano](https://github.com/Lucianov-TheFarmer)
 - [Luiz Resende](https://github.com/LuizPhillipResende)
+- [Davi Siqueira](https://github.com/davisiqueira1)
