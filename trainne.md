@@ -14,3 +14,6 @@
 - [Davi Siqueira](https://github.com/davisiqueira1)
 - [Tiago de Paula](https://github.com/depaulatiago)
 - [Patrick Leite Oliveira](https://github.com/PatrickLeite1301)
+- [Paulo Henrique Ribeiro](https://github.com/paulohenrique64)
+- [Lucas Eduardo da Silva](https://github.com/JackFrost01)
+- [Beatriz Euzébio](https://github.com/beatrizoliveira9)
