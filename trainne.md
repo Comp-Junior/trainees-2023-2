@@ -18,3 +18,4 @@
 - [Paulo Henrique Ribeiro](https://github.com/paulohenrique64)
 - [Lucas Eduardo da Silva](https://github.com/JackFrost01)
 - [Beatriz Euzébio](https://github.com/beatrizoliveira9)
+- [Pedro Henrique Guimarães Carvalho](https://github.com/phguimaraes15)
