@@ -6,6 +6,7 @@
 <!--[Seunome](URL Repositório)-->
 - [Gustavo Dantas](https://github.com/dantas15)
 - [Diego Marques](https://github.com/diegomarqueszs)
+- [Thiago Melato](https://github.com/Melatoo)
 - [Jhuan Carlos Sabaini Dassie](https://github.com/DJhuan)
 - [Frederico Maia](https://github.com/FredMaia)
 - [Vitor Luciano](https://github.com/Lucianov-TheFarmer)
