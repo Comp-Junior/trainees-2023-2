@@ -20,3 +20,4 @@
 - [Beatriz Euzébio](https://github.com/beatrizoliveira9)
 - [Pedro Henrique Guimarães Carvalho](https://github.com/phguimaraes15)
 - [Estevão Augusto da Fonseca Santos] (https://github.com/EstevaoAugusto)
+- [Lucca Guedes Batistela](https://github.com/tmura-lu)
