@@ -1,4 +1,4 @@
-
+/
 # Desafio trainnes Comp Júnior
 ## 2023-2
 
@@ -19,5 +19,6 @@
 - [Lucas Eduardo da Silva](https://github.com/JackFrost01)
 - [Beatriz Euzébio](https://github.com/beatrizoliveira9)
 - [Pedro Henrique Guimarães Carvalho](https://github.com/phguimaraes15)
+- [Gustavo de Jesus Teodoro](https://github.com/tteodorogustavo)
 - [Estevão Augusto da Fonseca Santos] (https://github.com/EstevaoAugusto)
 - [Lucca Guedes Batistela](https://github.com/tmura-lu)
